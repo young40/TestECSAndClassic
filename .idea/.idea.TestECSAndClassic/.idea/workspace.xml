@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f26f099e-1f88-4beb-97f1-573099d84d87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestECSAndClassic/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestECSAndClassic/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestECSAndClassic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestECSAndClassic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ECS.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ECS/DOTS.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ECS/DOTS.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DOTS/DOTS.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DOTS/DOTS.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +27,21 @@
         <option value="$PROJECT_DIR$/Assets/BallRun.cs" />
         <option value="$PROJECT_DIR$/Assets/Z_GameSetting.cs" />
         <option value="$PROJECT_DIR$/Assets/Z_ECS_Loader.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_Ball_Authoring_FromEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_BallSetting_FromEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_BallSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_Ball_Authoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_BallInitSetting.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_BallInit_Authoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_BallInitSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/DOTS/DOTS_RotationSpeed.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1hDiTGdFZyWTMcaqNAkQsEmlT2k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +82,7 @@
       <updated>1599552069775</updated>
       <workItem from="1599552076195" duration="8538000" />
       <workItem from="1602748207479" duration="2081000" />
-      <workItem from="1603074501455" duration="689000" />
+      <workItem from="1603074501455" duration="8574000" />
     </task>
     <servers />
   </component>
